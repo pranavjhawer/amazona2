@@ -1,2 +1,1 @@
 # amazona2
-moditji
